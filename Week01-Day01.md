@@ -7,4 +7,4 @@
 ## 问题：
 - Github无中文用网页翻译
 ## 笔记
-<img width="285" height="167" alt="image" src="https://github.com/user-attachments/assets/6af7b581-50ac-4711-9e9f-f7d03ae1d26a" />
+<img width="1518" height="1571" alt="fusioncompute虚拟化架构" src="https://github.com/user-attachments/assets/d3335444-c7fb-46e8-881f-55459f2ae0b6" />
