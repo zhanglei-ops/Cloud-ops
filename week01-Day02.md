@@ -44,3 +44,30 @@
     1. 华为鲲鹏处理器 `泰山TaiShan服务器` 
 
   - BM POWER架构IBMAIX小型机
+# Fusioncompute安装部署
+**远程管理卡**
+<img width="689" height="296" alt="0a4516c3e43589f7b32ee16bba231874" src="https://github.com/user-attachments/assets/3a652908-7880-46b6-a884-6ce2a6dac327" />
+ 
+ `内置mini-os系统，只要服务器通电，即便未按启动电源键，mini-os.依然可以正常访问`
+
+mini-os使用Intel IPMI协议 开源 `Intelligent Platform Management Interface(能平合管理接口)`
+
+ - IBM:RSA远程管理卡
+
+ - HP: ILO2e
+
+ - DELL:DRACe
+
+ - **华为:BMC/IBMC**` (Baseboard Management Controller)e`
+
+   - 所有服务器出厂远程管理口都有一个默认的IP地址，用户名和密码:
+   - 默认IP:192.168.2.100
+
+   ​        255.255.255.0
+
+   ​       用户名: Administratore
+
+   ​       密码:Admin@9000
+
+   - **例：**我的笔记本电脑，配置192.168.2.200IP地址，ping通192.168.2.100~通过浏览器访问https://192.168.2.100远程管理这台服务器
+   
