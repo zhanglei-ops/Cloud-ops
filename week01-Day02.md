@@ -1,4 +1,4 @@
-# FusionCompute安装和管理
+# FusionCompute安装前置准备
 
 ## 	部署方式建议
 
